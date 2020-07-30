@@ -1,4 +1,4 @@
-Slide: https://slides.com/eduardofg87/do-traefik/edit
+Slide: https://slides.com/eduardofg87/do-traefik
 
 Referências:
 https://traefik.io/
